@@ -43,3 +43,4 @@ or agr branch wapis laani h tw
 git checkout -b <branch_name> <commit_hash>
 
 ab meiny branch dobara lai cuz wanna check conflict S
+now i wanna merge 
