@@ -38,3 +38,8 @@ for delette
 git branch -d <branch_name>
 or is ny ff technique ue kr k branch merge krdiya q k cahnges branch me hui thi na k main me uska rasta clear tha or agr ais anhihota then wo merge k lye poxhta 
 or branch dleete krdo otherwise phir mess hota rhyga like trash 
+
+or agr branch wapis laani h tw 
+git checkout -b <branch_name> <commit_hash>
+
+ab meiny branch dobara lai cuz wanna check conflict S
