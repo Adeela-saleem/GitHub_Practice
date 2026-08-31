@@ -18,4 +18,16 @@ git reset --hard 842897f
 
  ab agr permanately nhi krna bs dekhk ana tw git checkout commit_id
 
-git reflog ya oneline chla k id nikal k check 
+git reflog ya oneline chla k id nikal k check then wapis any k lye just git switch -
+
+
+
+#git enable by git init 
+untracked files 
+git k sath files add -staging 
+save points create krna -git commit 
+pechy jana -git reset 
+logs check -oneline /graph 
+
+
+git log tells deltailed history while oneline just useful
