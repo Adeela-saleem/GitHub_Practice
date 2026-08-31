@@ -41,3 +41,4 @@ git log tells deltailed history while oneline just useful
  
 
  now ive switched to feature/learning
+ now ill do branch merge 
