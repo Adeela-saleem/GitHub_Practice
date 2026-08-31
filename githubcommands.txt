@@ -13,4 +13,9 @@ git reflog
 ye hr action ki history hold krty 
 
 git reset --hard 842897f
- by adding that we back
+ by adding that we back 
+ 
+
+ ab agr permanately nhi krna bs dekhk ana tw git checkout commit_id
+
+git reflog ya oneline chla k id nikal k check 
