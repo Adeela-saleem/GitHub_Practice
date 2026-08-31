@@ -31,3 +31,13 @@ logs check -oneline /graph
 
 
 git log tells deltailed history while oneline just useful
+
+
+
+
+#branching 
+ git branch feature/learning
+ git branch #check
+ 
+
+ now ive switched to feature/learning
