@@ -33,12 +33,8 @@ logs check -oneline /graph
 git log tells deltailed history while oneline just useful
 
 
-
-
-#branching 
- git branch feature/learning
- git branch #check
- 
-
- now ive switched to feature/learning
- now ill do branch merge 
+for merging must be on main branch
+for delette  
+git branch -d <branch_name>
+or is ny ff technique ue kr k branch merge krdiya q k cahnges branch me hui thi na k main me uska rasta clear tha or agr ais anhihota then wo merge k lye poxhta 
+or branch dleete krdo otherwise phir mess hota rhyga like trash 
