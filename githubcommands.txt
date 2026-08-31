@@ -38,3 +38,5 @@ for delette
 git branch -d <branch_name>
 or is ny ff technique ue kr k branch merge krdiya q k cahnges branch me hui thi na k main me uska rasta clear tha or agr ais anhihota then wo merge k lye poxhta 
 or branch dleete krdo otherwise phir mess hota rhyga like trash 
+
+now i wanna merge 
