@@ -1,0 +1,6 @@
+
+1. initialize repo by opening terminal
+2. untracked files here cz git is unaware of that 
+3. add to staged changes its like temporary snapshot called staging area /index 
+like waiting room ,git ko commit me in changes ko addkrna hota 
+4. commit  
