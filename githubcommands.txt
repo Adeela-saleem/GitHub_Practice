@@ -52,3 +52,7 @@ stash khud sy nhi ua us ny auto save krdiya ab khud sy staash krna hai tw git st
 ab git stash pop chla k dobara ly or git init . sy add kiya 
 
 reset &revert difference --?/?
+
+
+
+meiny ne branch bnai after uplaiing main in github now i wan rpactice pull reqquest 
