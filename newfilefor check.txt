@@ -1,1 +1,2 @@
 git asked ye file ky ahia ? then i added in changes then moified 
+git status just tells uska status jo commited nhi or jo ocmmited k baad changes hui 
